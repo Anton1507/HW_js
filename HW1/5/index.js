@@ -1,4 +1,4 @@
-const height = 80;
+const height = 6;
 const widht = (height * 2) - 1;
 let sharp = '#';
 let dash = '-';
